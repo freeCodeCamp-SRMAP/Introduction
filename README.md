@@ -1,5 +1,5 @@
 # Introduction
-Introduction of freeCodeCamp SRMAP
+Welcome you all to freeCodeCamp SRMAP
 
 All the data files and others resources used in the community meetup and talks will be found here.
 
